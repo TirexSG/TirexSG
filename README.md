@@ -4,7 +4,7 @@ Hi! I'm Sergio, also known as Tirex 👋
 Mobile Developer
 ----------------
 
-I've been programming for two years, and in the past year, I have developed a strong passion for mobile development, particularly Kotlin. I am focused on enhancing my skills every day, with the goal of mastering Android and iOS application development. My experience in competitive gaming has also enhanced my problem-solving abilities and teamwork skills.
+I've been programming for two years, and in the past year, I have developed a strong passion for mobile development, particularly Kotlin. I am focused on enhancing my skills every day, with the goal of mastering Android application development. My experience in competitive gaming has also enhanced my problem-solving abilities and teamwork skills.
 
 * 🌍  I'm based in Málaga, Spain
 * ✉️  You can contact me at [sergiogdas@gmail.com](mailto:sergiogdas@gmail.com)
