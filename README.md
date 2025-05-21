@@ -8,7 +8,6 @@ I've been programming for two years, and in the past year, I have developed a st
 
 * 🌍  I'm based in Málaga, Spain
 * ✉️  You can contact me at [sergiogdas@gmail.com](mailto:sergiogdas@gmail.com)
-* 🧠  I'm learning Jetpack Compose, Firebase
 
 ### Skills
 
