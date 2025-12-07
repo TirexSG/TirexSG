@@ -90,4 +90,4 @@ My work includes scalable architecture, real-time synchronisation, offline-first
 
 ---
 
-Thanks for visiting — feel free to explore my work.
+Thanks for visiting - feel free to explore my work.
