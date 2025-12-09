@@ -76,18 +76,5 @@ My work includes scalable architecture, real-time synchronisation, offline-first
 
 ---
 
-### Top Repositories
-
-<a href="https://github.com/TirexSG/Pokedex-APP">
-  <img width="48%" align="left" style="margin-bottom: 10px; border-radius: 6px;" src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=TirexSG&repo=Pokedex-APP&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0c0c0c&hide_border=true&locale=en" />
-</a>
-
-<a href="https://github.com/TirexSG/Marvel-List">
-  <img width="48%" align="left" style="margin-bottom: 10px; border-radius: 6px;" src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=TirexSG&repo=Marvel-List&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0c0c0c&hide_border=true&locale=en" />
-</a>
-
-<br clear="left"/>
-
----
 
 Thanks for visiting - feel free to explore my work.
