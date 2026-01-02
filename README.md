@@ -8,6 +8,7 @@ I design and build mobile applications with a strong focus on Android and Kotlin
 My work includes scalable architecture, real-time synchronisation, offline-first behaviour and clean code principles.
 
 * 📍 Based in Málaga, Spain  
+* 🌐 Portfolio: **https://tirexsg.com**  
 * ✉️ Contact: **sergiogdas@gmail.com**
 
 ---
